@@ -1,0 +1,23 @@
+{
+  "name": "ibook",
+  "version": "1.0.0",
+  "description": "这是简介",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lixiangyuSupreme/ibook.git"
+  },
+  "keywords": [],
+  "author": "2018011802",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lixiangyuSupreme/ibook/issues"
+  },
+  "homepage": "https://github.com/lixiangyuSupreme/ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
